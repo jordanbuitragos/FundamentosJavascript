@@ -2,67 +2,16 @@
 
 contenido:
 
-Primeros pasos en javascript
-*Variables
-*Variables: strings
-*Variables: Números
-*Funciones
-*AlcanceDeFunciones
-*Objetos
-*DesestructurarObjetos
-*ParametrosComoReferenciaYvalor
-*ComparacionesEnJavascript
+*Primeros pasos en javascript
 
-Estructuras de control y funciones
-*Condicionales
-*FuncionesRetornanValores
-*ArrowFunctions
-*EstructurasRepetitivas(For)
-*EstructurasRepetitivas(While)
-*EstructurasRepetitivas(doWhile)
-*EstructurasRepetitivas(Switch)
+*Estructuras de control y funciones
 
-Arrays
-*IntroduccionArrays
-*FiltrarUnArray
-*TransformarUnArray
-*ReducirUnArray
+*Arrays
 
-Programacion orientada a objetos en Javascript
-*ComoFuncionanLasClasesEnJavascript
-*ModificandoUnPrototipo
-*ElContextoDeLasFunciones... QuienEsThis
-*LaVerdaderaOcultaSobreLasClasesEnJavascript
-*ClasesEnJavascript
+*Programacion orientada a objetos en Javascript
 
-Asincronismo
-*FuncionesComoParametros
-*ComoFuncionaElAsincronismoEnJavascript
-*ComoFuncionaElTiempoEnJavascript
-*CallBacks
-*HaciendoMultiplesRequest
-*ManejandoElOrdenYElAsincronismoEnJavascript
-*ManejoDeErroresConCallback
-*Promesas
-*PromesasEncadenadas
-*MultiplesPromesasEnParalelo
-*Async-await:LoUltimoEnAsincronismo
+*Asincronismo
 
-JuegoDeHtml
-*ComenzandoElJuego
-*GenerandoUnaSecuenciaDeNumeros
-*IluminandoLaSecuenciaDeColores
-*ObteniendoElImputDelUsuario
-*AgregandoLaVerificacionDelColorElegido
-*AgregandoLosEstadosFinalesDelJuego
-*ConclusionesDelCurso
+*JuegoDeHtml
 
-Complementos
-*VarLetYConst: LasDiferenciaEntreEllos
-*HaceCuantosDiasNaciste?
-*FuncionesRecursivas
-*Memorizaciòn:AhorrandoComputo
-*EntiendeLosClousuresDeJavascript
-*EstructurasDeDatosInmutables
-*CambiandoDeContextoAlLlamarUnaFuncion
-*CuandoHaceFaltaColocarPuntoYComaAlFinal
+*Complementos
