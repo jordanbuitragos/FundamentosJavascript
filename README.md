@@ -1,8 +1,68 @@
 # FundamentosJavascript
-iniciando
 
-Entusiasmado por aprender backend de la mano de javascript
+contenido:
 
-un cambio para pull
+Primeros pasos en javascript
+*Variables
+*Variables: strings
+*Variables: Números
+*Funciones
+*AlcanceDeFunciones
+*Objetos
+*DesestructurarObjetos
+*ParametrosComoReferenciaYvalor
+*ComparacionesEnJavascript
 
-un cambio para Push
+Estructuras de control y funciones
+*Condicionales
+*FuncionesRetornanValores
+*ArrowFunctions
+*EstructurasRepetitivas(For)
+*EstructurasRepetitivas(While)
+*EstructurasRepetitivas(doWhile)
+*EstructurasRepetitivas(Switch)
+
+Arrays
+*IntroduccionArrays
+*FiltrarUnArray
+*TransformarUnArray
+*ReducirUnArray
+
+Programacion orientada a objetos en Javascript
+*ComoFuncionanLasClasesEnJavascript
+*ModificandoUnPrototipo
+*ElContextoDeLasFunciones... QuienEsThis
+*LaVerdaderaOcultaSobreLasClasesEnJavascript
+*ClasesEnJavascript
+
+Asincronismo
+*FuncionesComoParametros
+*ComoFuncionaElAsincronismoEnJavascript
+*ComoFuncionaElTiempoEnJavascript
+*CallBacks
+*HaciendoMultiplesRequest
+*ManejandoElOrdenYElAsincronismoEnJavascript
+*ManejoDeErroresConCallback
+*Promesas
+*PromesasEncadenadas
+*MultiplesPromesasEnParalelo
+*Async-await:LoUltimoEnAsincronismo
+
+JuegoDeHtml
+*ComenzandoElJuego
+*GenerandoUnaSecuenciaDeNumeros
+*IluminandoLaSecuenciaDeColores
+*ObteniendoElImputDelUsuario
+*AgregandoLaVerificacionDelColorElegido
+*AgregandoLosEstadosFinalesDelJuego
+*ConclusionesDelCurso
+
+Complementos
+*VarLetYConst: LasDiferenciaEntreEllos
+*HaceCuantosDiasNaciste?
+*FuncionesRecursivas
+*Memorizaciòn:AhorrandoComputo
+*EntiendeLosClousuresDeJavascript
+*EstructurasDeDatosInmutables
+*CambiandoDeContextoAlLlamarUnaFuncion
+*CuandoHaceFaltaColocarPuntoYComaAlFinal
