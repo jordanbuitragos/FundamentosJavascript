@@ -1,0 +1,8 @@
+.header 
+{
+	width: 1000px;
+	height: 300px;
+	justify-content: center;
+	border: 2px solid pink;
+	border-radius: 9px;
+}
